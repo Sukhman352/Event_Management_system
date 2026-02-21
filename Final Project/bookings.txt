@@ -1,0 +1,96 @@
+Booking ID: 1001
+Date & Time: Wed Jul 16 15:19:53 2025
+Type: Wedding
+Customer: sukhman
+Contact: 30000303
+Venue: Beach Resort
+Guests: 300
+Food Cost: 200 per person
+Total Cost: 139500
+---------------------------------------------
+Booking ID: 1001
+Date & Time: Thu Jul 17 21:49:29 2025
+Type: Wedding
+Customer: sukhman
+Contact: 7986465188
+Venue: Beach Resort
+Guests: 300
+Food Cost: 200 per person
+Total Cost: 139500
+---------------------------------------------
+Booking ID: 1001
+Date & Time: Fri Jul 18 20:30:18 2025
+Type: Wedding
+Customer: Sukhman
+Contact: 1000020303
+Venue: Grand Ballroom
+Guests: 200
+Food Cost: 300 per person
+Total Cost: 126000
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Sun Jul 20 21:20:51 2025
+Event Date: 12-10-2025
+Type: Wedding
+Customer: sukhman
+Contact: 2999039442
+Venue: Beach Resort
+Guests: 200
+Food Cost: 100 per person
+Total Cost: 103500
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Mon Jul 21 09:12:35 2025
+Event Date: 12-11-2025
+Type: Wedding
+Customer: Sukhman
+Contact: 123456789
+Venue: Beach Resort
+Guests: 200
+Food Cost: 100 per person
+Total Cost: 103500
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Mon Jul 21 09:14:06 2025
+Event Date: 31-12-2025
+Type: Wedding
+Customer: parveen
+Contact: 3729472613
+Venue: Beach Resort
+Guests: 200
+Food Cost: 120 per person
+Total Cost: 107100
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Tue Jul 22 09:49:08 2025
+Event Date: 23-10-2029
+Type: Wedding
+Customer: Navneet
+Contact: 8801700088
+Venue: Beach Resort
+Guests: 6000
+Food Cost: 50 per person
+Total Cost: 369000
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Tue Jul 22 15:34:25 2025
+Event Date: 12-11-2025
+Type: Wedding
+Customer: sukhman
+Contact: 234567817
+Venue: Grand Ballroom
+Guests: 200
+Food Cost: 120 per person
+Total Cost: 93600
+---------------------------------------------
+Booking ID: 1001
+Booking Date: Sat Feb 21 20:12:36 2026
+Event Date: 12-03-2026
+Type: Wedding
+Customer: Sukhman
+Contact: 7986465185
+Venue: Garden
+Guests: 100
+Food Cost: 50 per person
+Total Cost: 115000
+---------------------------------------------
